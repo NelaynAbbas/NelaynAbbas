@@ -3,18 +3,19 @@
 # 👋 Welcome to My GitHub!
 
 ### 💫 About Me  
-I'm **Nelayn Abbas**, a **Computer Science student at FAST NUCES** with a strong passion for **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
+I’m **Nelayn Abbas**, a **Senior Python & AI/ML Engineer** with hands-on experience in architecting and deploying **end-to-end AI platforms, RAG pipelines, and multi-agent systems**. My expertise lies at the intersection of **machine learning, backend engineering, and cloud deployment**, where I design scalable, production-ready solutions.  
 
-🎓 **Teaching Assistant** – Guiding students in Programming Fundamentals & Data Structures.  
-👨‍💻 **President, Fast Club of App Development & Programming (FCAP)** – Building a vibrant coding culture on campus.  
-🚀 Exploring projects with **LLMs, MERN stack, Flask/React, and LLaMA models**.  
-🏆 Competitive programmer – actively participating and organizing coding competitions.  
-🌱 Currently working on **AI-driven educational platforms** and **real-world ML applications**.  
+- 🧠 Specialized in **LLMs, Retrieval-Augmented Generation (RAG), semantic search, and AI-driven automation**.  
+- 💻 Proficient in **Python, Flask, FastAPI, React.js, Node.js, and cloud-native deployments (AWS, Docker, CI/CD)**.  
+- 🎙 Experienced in building **speech-to-speech conversational systems** with ASR (Whisper, Deepgram) and TTS (Coqui, OpenAI).  
+- 📊 Strong background in **recommendation systems, NLP, image processing, and real-time data pipelines**.  
+- 🚀 Co-Founder of **MyndEdge**, where I’ve built and scaled AI products adopted by investors.  
+- 🌍 Passionate about creating impactful **AI-first solutions** in **education, healthcare, and automation domains**. 
 
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelayn-abbas)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelayn-abbas)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://](https://nelaynabbas.github.io/Portfolio/))  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelaynabbas5@gmail.com)  
 
 ---
 
